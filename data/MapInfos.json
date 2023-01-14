@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":813,"scrollY":378.75},
+{"id":2,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":946,"scrollY":624},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":4,"expanded":true,"name":"Ext_Torre","order":4,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":5,"expanded":true,"name":"Lab00","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"01","order":6,"parentId":5,"scrollX":813,"scrollY":457.5},
+{"id":7,"expanded":true,"name":"02","order":7,"parentId":6,"scrollX":813,"scrollY":457.5},
+{"id":8,"expanded":false,"name":"03","order":8,"parentId":7,"scrollX":813,"scrollY":457.5},
+{"id":9,"expanded":true,"name":"Inside01","order":9,"parentId":0,"scrollX":816,"scrollY":640},
+{"id":10,"expanded":true,"name":"Inside00","order":10,"parentId":9,"scrollX":712,"scrollY":406.6666666666667},
+{"id":11,"expanded":true,"name":"Ext_Torre2","order":12,"parentId":0,"scrollX":728,"scrollY":1044},
+{"id":12,"expanded":false,"name":"Inside02","order":11,"parentId":10,"scrollX":712,"scrollY":406.6666666666667},
+{"id":13,"expanded":false,"name":"Torre00","order":13,"parentId":0,"scrollX":708,"scrollY":457.3333333333333}
+]
