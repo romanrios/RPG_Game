@@ -43,11 +43,11 @@
  *
  * @param screenWidth
  * @desc 画面サイズの幅
- * @default 816
+ * @default 600
  *
  * @param screenHeight
  * @desc 画面サイズの高さ
- * @default 624
+ * @default 600
  *
  * @param changeWindowWidthTo
  * @desc 値が設定された場合、ウインドウの幅を指定した値に変更
