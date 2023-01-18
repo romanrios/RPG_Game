@@ -10,11 +10,11 @@
  *
  * @param screenWidth
 * @desc For setting the screen width.
- * @default 816
+ * @default 600
  *
  * @param screenHeight
  * @desc For setting the screen height.
- * @default 624
+ * @default 600
  *
  * @param changeWindowWidthTo
  * @desc If set, change window width to this value
